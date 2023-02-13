@@ -4,7 +4,10 @@ title: Docker
 permalink: /docker/
 nav_order: 2
 has_children: true
+has_toc: false
 ---
+
+Parent page for Docker
 
 # Docker
 

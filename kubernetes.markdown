@@ -2,10 +2,11 @@
 layout: page
 title: Kubernetes
 permalink: /kubernetes/
-nav_order: 4
+nav_order: 3
 has_children: true
+has_toc: false
 ---
 
 # Kubernetes
 
-Hablemos de Kubernetes.
+Parent page for Kubernetes.

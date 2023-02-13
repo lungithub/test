@@ -1,49 +1,60 @@
 ---
-layout: page
+layout: default
 title: Minikube
 permalink: /minikube/
-nav_order: 1
+nav_order: 2
 has_children: true
+has_toc: false
 ---
 
-# Minikube
+# Main Title :: Navigation Structure
+{: .no_toc }
 
-En este document hablaremos the Minikube.
-_El objectivo es enternder la manera de usar esta herramienta para crear un ambiente para probar varios aspectos de Kubernetes._
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
-## Listar Minikube 
+---
 
-Ejecutemos el comando para listar la version the minikube instalada localmente.
+Parent page for MINIKUBE
+## First Subtitle
 
-```bash
--> minikube version
-minikube version: v1.28.0
-commit: 986b1ebd987211ed16f8cc10aed7d2c42fc8392f
+This is the first section of the document.
+## Second Subtitle
+
+Second section of the document.
+
+## Third Subtitle
+
+And this third section of the document.
+
+## Fourth Subtitle
+ 
+Some interesting examples follow: 
+#### Example 1
+{: .no_toc }
+
+```yaml
+---
+layout: default
+title: 404
+nav_exclude: true
+---
+```
+#### Example 2
+{: .no_toc }
+
+```yaml
+---
+layout: default
+title: 404
+nav_exclude: true
+---
 ```
 
-## Verificar Instancias de Kubernetes
-
-Verificar las instancias the kubernetes installadas corrientemente.
-This is el resultado en forma de **comando**.
-
-```bash
--> minikube profile list
-🎉  minikube 1.29.0 is available! Download it: https://github.com/kubernetes/minikube/releases/tag/v1.29.0
-💡  To disable this notice, run: 'minikube config set WantUpdateNotification false'
-
-|-------------------|-----------|---------|--------------|------|---------|---------|-------|--------|
-|      Profile      | VM Driver | Runtime |      IP      | Port | Version | Status  | Nodes | Active |
-|-------------------|-----------|---------|--------------|------|---------|---------|-------|--------|
-| minikube-v1.23.4a | hyperkit  | docker  | 172.16.156.9 | 8443 | v1.23.4 | Stopped |     3 |        |
-|-------------------|-----------|---------|--------------|------|---------|---------|-------|--------|
-```
-
-Este es el resultado en forma the **tabla**.
-
-|-------------------|-----------|---------|--------------|------|---------|---------|-------|--------|
-|      Profile      | VM Driver | Runtime |      IP      | Port | Version | Status  | Nodes | Active |
-|-------------------|-----------|---------|--------------|------|---------|---------|-------|--------|
-| minikube-v1.23.4a | hyperkit  | docker  | 172.16.156.9 | 8443 | v1.23.4 | Stopped |     3 |        |
-|-------------------|-----------|---------|--------------|------|---------|---------|-------|--------|
-
-> NOTA: la lista es dinámica y puede cambiar
+The examples above will not show up in the **TABLE OF CONTENTS**

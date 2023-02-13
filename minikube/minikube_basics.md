@@ -6,7 +6,8 @@ parent: Minikube
 nav_order: 5
 ---
 
-This page: Minikube Installation: 
+This page: Minikube Basics
+
 # Minikube
 
 En este document hablaremos the Minikube.
