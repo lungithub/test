@@ -1,12 +1,16 @@
 ---
-layout: page
-title: Page1
-permalink: /page1/
+layout: default
+title: Minikube Basics
+permalink: /minikube-basics/
+parent: Minikube
+nav_order: 5
 ---
 
+This page: Minikube Installation: 
 # Minikube
 
 En este document hablaremos the Minikube.
+_El objectivo es enternder la manera de usar esta herramienta para crear un ambiente para probar varios aspectos de Kubernetes._
 
 ## Listar Minikube 
 
@@ -21,6 +25,7 @@ commit: 986b1ebd987211ed16f8cc10aed7d2c42fc8392f
 ## Verificar Instancias de Kubernetes
 
 Verificar las instancias the kubernetes installadas corrientemente.
+This is el resultado en forma de **comando**.
 
 ```bash
 -> minikube profile list
@@ -34,4 +39,12 @@ Verificar las instancias the kubernetes installadas corrientemente.
 |-------------------|-----------|---------|--------------|------|---------|---------|-------|--------|
 ```
 
-> NOTA: la lista es dinamica y puede cambiar
+Este es el resultado en forma the **tabla**.
+
+|-------------------|-----------|---------|--------------|------|---------|---------|-------|--------|
+|      Profile      | VM Driver | Runtime |      IP      | Port | Version | Status  | Nodes | Active |
+|-------------------|-----------|---------|--------------|------|---------|---------|-------|--------|
+| minikube-v1.23.4a | hyperkit  | docker  | 172.16.156.9 | 8443 | v1.23.4 | Stopped |     3 |        |
+|-------------------|-----------|---------|--------------|------|---------|---------|-------|--------|
+
+> NOTA: la lista es dinámica y puede cambiar

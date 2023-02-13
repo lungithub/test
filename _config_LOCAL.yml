@@ -29,8 +29,8 @@ url: "https://test.devesp.com" # the base hostname & protocol for your site, e.g
 github_username:  lungithub
 
 # Build settings
-# theme: just-the-docs
-remote_theme: pmarsceill/just-the-docs
+theme: just-the-docs
+# remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
 
