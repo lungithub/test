@@ -1,9 +1,12 @@
 ---
-layout: page
-title: Minikube
-permalink: /minikube/
+layout: default
+title: Minikube Basics
+permalink: /minikube-basics/
+parent: Minikube
+nav_order: 5
 ---
 
+This page: Minikube Installation: 
 # Minikube
 
 En este document hablaremos the Minikube.
