@@ -5,7 +5,8 @@
 layout: home
 ---
 
+![](../../assets/images/devesp_logo.png)
+
 Saludos, Hispania!
 
 Has llegado al sitio donde esparcimos los conocimientos de [DEV]ops en [ESP]añol.
-

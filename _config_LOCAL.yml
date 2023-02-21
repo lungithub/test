@@ -115,8 +115,9 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 
 # External navigation links
 nav_external_links:
-  - title: External Link to see DevESP on Youtube
+  - title: DevESP is on Youtube
     url: https://www.youtube.com/
+
 
 # Footer content
 # appears at the bottom of every page's main content
@@ -125,7 +126,8 @@ nav_external_links:
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "Copyright &copy; 2023 A Foot.</a>"
+# footer content file
+footer_content: _includes/footer_custom.html
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
@@ -133,7 +135,8 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 
 
 # Color scheme currently only supports "dark", "light"/nil (default), or a custom scheme that you define
-color_scheme: light
+# color_scheme: light
+color_scheme: devesp
 
 callouts_level: quiet # or loud
 callouts:

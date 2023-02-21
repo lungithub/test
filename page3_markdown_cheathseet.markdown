@@ -6,9 +6,50 @@ permalink: /markdown/
 
 # Markdown Cheatsheet
 
+Ejemplos para sintax en documentos.
+
 See the [markdownguide](https://www.markdownguide.org/cheat-sheet)
 
-Ejemplos para sintax en documentos.
+## highlighted PARAGRAPH
+
+{: .highlight }
+A highlighted PARAGRAPH
+
+## NOTE paragraph
+
+{: .note }
+A NOTE paragraph
+
+{: .note }
+> If you have cloned/forked and customised the theme repo,
+> and pull the changes of a new release to your clone,
+> you may need to resolve merge conflicts.
+
+## An important paragraph
+
+{: .important }
+> A paragraph
+>
+> Another paragraph
+>
+> The last paragraph
+
+## Something NEW
+
+{: .new }
+> Something NEW
+>
+> Another paragraph
+>
+> The last paragraph
+
+## Nested CALLOUTS
+
+{: .important }
+> {: .warning }
+> A paragraph
+
+## Warning
 
 {: .warning }
 > If your configuration states `remote_theme: just-the-docs/just-the-docs`, your
@@ -18,13 +59,6 @@ Ejemplos para sintax en documentos.
 > If your configuration states `theme: just the docs` and your `Gemfile` specifies
 > `gem "just-the-docs"`, your website is always built using the latest release.
 
-{: .note }
-> If you have cloned/forked and customised the theme repo,
-> and pull the changes of a new release to your clone,
-> you may need to resolve merge conflicts.
-
-{: .note }
-Thsea are some header examples from level one to level three.
 
 ---
 
@@ -102,16 +136,13 @@ See [this link](https://www.example.com) for more information.
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 some say ~~the world is flat~~, or is it?
 
-## Emoji
+## Highlight, Bold, Italics
 
-That is so funny! :joy: 
+I need to highlight these **very important words** to be very clear.
 
-## Highlight
-
-I need to highlight these ==very important words== to be very clear.
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ---
-
 
 <button class="btn js-toggle-dark-mode">Preview dark color scheme</button>
 
@@ -129,7 +160,7 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
 });
 </script>
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+---
 
 [Link to another page](another-page).
 
@@ -291,15 +322,9 @@ Some text
 - level 1 item (ul)
 - level 1 item (ul)
 
-### Small image
-
-![](../../assets/images/small-image.jpg)
-
 ### Large image
 
-![](../../assets/images/large-image.jpg)
-
-"[Wroclaw University Library digitizing rare archival texts](https://www.flickr.com/photos/97810305@N08/9401451269)" by [j_cadmus](https://www.flickr.com/photos/97810305@N08) is marked with [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/?ref=openverse).
+![](../../assets/images/devesp_logo.png)
 
 ### Labels
 
@@ -403,11 +428,24 @@ class conditions(object):
         self.__postcondition = post
 {% endraw %}
 ```
-```
 
-```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-```
 
+#### THANK YOU FOR READING THIS FAR!
+
+[comment]: # (This is a comment, it will not be included)
+[comment]: # (in  the output file unless you use it in)
+[comment]: # (a reference style link.)
+
+[//]: # (This is a comment, it will not be included)
+[//]: # (in  the output file unless you use it in)
+[//]: # (a reference style link.)
+
+<!---
+your comment goes here
+and here
+-->
+
+```
+```
 [Return to main page]({{site.baseurl}}/).

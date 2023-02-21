@@ -38,8 +38,37 @@ Tambien se pueded listar de esta manera.
 Docker version 20.10.22, build 3a2c30b
 ```
 
----
+## Listar Imagenes de Docker
 
 El comando `docker image ls` lista las imagenes de docker presentes en el sistema.
 
-> NOTA: la lista es dinámica y puede cambiar
+{: .note }
+La lista es dinámica y puede cambiar a medida que agregamos o borramos imagenes
+
+```c
+-> docker image ls
+REPOSITORY                                      TAG              IMAGE ID       CREATED         SIZE
+prom/prometheus                                 latest           a5624f16ebec   2 months ago    223MB
+ubuntu                                          22.04            6b7dfa7e8fdb   2 months ago    77.8MB
+ubuntu                                          20.04            d5447fc01ae6   2 months ago    72.8MB
+grafana/grafana                                 latest           179ad45e2c74   2 months ago    315MB
+docker/volumes-backup-extension                 1.1.1            afd08623b0ee   2 months ago    118MB
+portainer/portainer-ce                          alpine           ecdb4fbad999   3 months ago    292MB
+```
+
+Definición de terminos
+
+<div class="code-example" markdown="1">
+<dl>
+<dt>REPOSITORY</dt>
+<dd>el repositorio de origen donde localizar la imagen</dd>
+<dt>TAG</dt>
+<dd>palabra alfanumérica identificando la imagen</dd>
+<dt>IMAGE ID</dt>
+<dd>suma de sha identificando la imagen internamente en el sistema</dd>
+<dt>CREATED</dt>
+<dd>fecha cuando la imagen fue creada</dd>
+<dt>SIZE</dt>
+<dd>tamaño de la imagen en megabytes</dd>
+</dl>
+</div>
