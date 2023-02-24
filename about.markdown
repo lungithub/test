@@ -6,15 +6,13 @@ nav_order: 99
 has_children: false
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+DevESP significa 
+<b><font color="black">[Dev]</font></b>ops en 
+<b><font color="#0369a3">[ESP]</font></b>añol.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+La internet esta anegada con conocimiento de informática en inglés. El objetivo de este sitio es hacer una pequeña contribución haciendo disponible ese conocimiento en el idioma Español.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+{: .highlight }
+Frequentemente haré referencia a recursos de información en Inglés. Haré lo mejor posible para asociar los términos e ideas correctamente al Español.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Tenemos a nuestro favor conocimiento adquirido con muchos años de experiencia. Dicho conocimiento es muy actualizado y puesto a práctica diariamente en un entorno empresarial extremadamente activo.

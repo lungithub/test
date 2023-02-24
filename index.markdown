@@ -7,6 +7,15 @@ layout: home
 
 ![](../../assets/images/devesp_logo.png)
 
-Saludos, Hispania!
+<h2><font color="#0369a3"> Saludos, Hispania! </font></h2>
+<br>
+Has llegado al sitio donde esparcimos los conocimientos de informática en el idioma Español.
 
-Has llegado al sitio donde esparcimos los conocimientos de [DEV]ops en [ESP]añol.
+El panel a la izquierda muestra differentes categorias de discusíon.
+Expande una categoria para navegar las páginas en la área de interés.
+
+Puedes buscar un término en la parte de arriba en el cuadro de búsqueda a la izquierda. También puedes cliquear en la parte de abajo a la derecha en el símbolo de la lupa que te dirije cuadro de búsqueda.
+
+{: .note }
+> El contenido de este sitio es bastante dinámico y puede cambiar en la medida que sea requerido para poder mantener el paso con los cambios rápidos del mundo de la informática.
+
