@@ -140,9 +140,7 @@ some say ~~the world is flat~~, or is it?
 
 I need to highlight these **very important words** to be very clear.
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
----
+* * *
 
 <button class="btn js-toggle-dark-mode">Preview dark color scheme</button>
 
@@ -160,7 +158,7 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
 });
 </script>
 
----
+* * *
 
 [Link to another page](another-page).
 
@@ -349,6 +347,14 @@ red
 ***bold + italic***
 {: .label }
 
+Try This >>>
+{: .label .label-blue }
+
+
+### HTML syntax test
+
+<p> This is an HTML paragraph test</p>
+
 ### Definition lists can be used with HTML syntax.
 
 <dl>
@@ -371,7 +377,7 @@ Longer Term
 : Longer description of Term,
   possibly more than one line
 
-Term
+Term1
 : First description of Term,
   possibly more than one line
 
@@ -392,6 +398,11 @@ Term2
   possibly more than one line
 
 ### More code
+
+We can code with python.
+
+Try This >>>
+{: .label .label-blue }
 
 ```python{% raw %}
 def dump_args(func):

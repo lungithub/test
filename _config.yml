@@ -171,3 +171,7 @@ compress_html:
   startings: []
   blanklines: false
   profile: false
+
+# Set a path/url to a favicon that will be displayed by the browser
+favicon_ico: "./assets/images/favicon/favicon.ico"
+logo: "./assets/images/site_logo.png"
