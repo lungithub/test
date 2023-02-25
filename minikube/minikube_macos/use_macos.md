@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Minikube Use MacOS
+title: Usar en MacOS
 permalink: /minikube_linux/minikube-use-macos/
-parent: Minikube Installation
+parent: Instalacion y Uso
 grand_parent: Minikube
 has_children: true
 nav_order: 4

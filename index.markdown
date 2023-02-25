@@ -5,6 +5,13 @@
 layout: home
 ---
 
+[comment]: # (Adds topnav bar above the main image)
+<div class="topnav">
+ <a class="active" href="../index">Home</a>
+ <a href="#news">News</a>
+ <a href="../about">About</a>
+</div> 
+
 ![](../../assets/images/devesp_logo.png)
 
 <h2><font color="#0369a3"> Saludos, Hispania! </font></h2>
@@ -14,8 +21,7 @@ Has llegado al sitio donde esparcimos los conocimientos de informática en el id
 El panel a la izquierda muestra differentes categorias de discusíon.
 Expande una categoria para navegar las páginas en la área de interés.
 
-Puedes buscar un término en la parte de arriba en el cuadro de búsqueda a la izquierda. También puedes cliquear en la parte de abajo a la derecha en el símbolo de la lupa que te dirije cuadro de búsqueda.
+Puedes buscar un término en la parte de arriba en el cuadro de búsqueda a la izquierda. También puedes cliquear en la parte de abajo a la derecha en el símbolo de la lupa que te dirije al cuadro de búsqueda.
 
 {: .important }
 > El contenido de este sitio es bastante dinámico y puede cambiar en la medida que sea requerido para poder mantener el paso con los cambios rápidos del mundo de la informática.
-

@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Minikube Use Linux
+title: Usar en Linux
 permalink: /minikube_linux/minikube-use-linux/
-parent: Minikube Installation
+parent: Instalacion y Uso
 grand_parent: Minikube
 has_children: true
 nav_order: 2

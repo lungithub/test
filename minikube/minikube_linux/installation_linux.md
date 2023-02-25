@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Minikube Installation Linux
+title: Instalacion Linux
 permalink: /minikube_linux/minikube-installation-linux/
-parent: Minikube Installation
+parent: Instalacion y Uso
 grand_parent: Minikube
 has_children: true
 nav_order: 1

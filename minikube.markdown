@@ -7,7 +7,14 @@ has_children: true
 has_toc: false
 ---
 
-# Main Title :: Navigation Structure
+[comment]: # (Adds topnav bar above the main image)
+<div class="topnav">
+ <a class="active" href="../index">Home</a>
+ <a href="#news">News</a>
+ <a href="../about">About</a>
+</div> 
+
+# Minikube
 {: .no_toc }
 
 <details open markdown="block">
@@ -58,3 +65,5 @@ nav_exclude: true
 ```
 
 The examples above will not show up in the **TABLE OF CONTENTS**
+
+[Return to main page]({{site.baseurl}}/).

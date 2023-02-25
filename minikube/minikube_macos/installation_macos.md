@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Minikube Installation MacOS
+title: Instalacion MacOS
 permalink: /minikube_linux/minikube-installation-macos/
-parent: Minikube Installation
+parent: Instalacion y Uso
 grand_parent: Minikube
 has_children: true
 nav_order: 3

@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Minikube Basics
+title: Conceptos
 permalink: /minikube-basics/
 parent: Minikube
-nav_order: 5
+nav_order: 1
 ---
 
 This page: Minikube Basics
@@ -49,3 +49,5 @@ Este es el resultado en forma the **tabla**.
 |-------------------|-----------|---------|--------------|------|---------|---------|-------|--------|
 
 > NOTA: la lista es dinámica y puede cambiar
+
+[Return to main page]({{site.baseurl}}/).
