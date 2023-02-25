@@ -4,10 +4,11 @@ title: Instalacion y Uso
 permalink: /minikube-installation/
 parent: Minikube
 has_children: true
+has_toc: false
 nav_order: 2
 ---
 
-# Instalación y Uso de Minikube
+# Instalacion de Minikube
 {: .no_toc }
 
 <details open markdown="block">

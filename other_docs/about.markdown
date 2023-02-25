@@ -10,7 +10,7 @@ has_children: false
 <div class="topnav">
  <a class="active" href="../index">Home</a>
  <a href="#news">News</a>
- <a href="../about">About</a>
+ <a href="../other_docs/about">About</a>
 </div> 
 
 DevESP significa 
