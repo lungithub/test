@@ -3,6 +3,7 @@ layout: default
 title: Instalacion y Uso
 permalink: /minikube-installation/
 parent: Minikube
+has_children: true
 nav_order: 2
 ---
 
