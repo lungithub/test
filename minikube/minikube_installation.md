@@ -4,11 +4,9 @@ title: Instalacion y Uso
 permalink: /minikube-installation/
 parent: Minikube
 nav_order: 2
-has_children: true
 ---
 
 # Instalación y Uso de Minikube
-
 {: .no_toc }
 
 <details open markdown="block">
@@ -21,7 +19,6 @@ has_children: true
 </details>
 
 ---
-
 ## First Subtitle
 
 This is the first section of the document.

@@ -20,7 +20,7 @@ Has llegado al sitio donde esparcimos los conocimientos de informática en el id
 El panel a la izquierda muestra differentes categorias de discusíon.
 Expande una categoria para navegar las páginas en la área de interés.
 
-Puedes buscar un término en la parte de arriba en el cuadro de búsqueda a la izquierda. También puedes cliquear en la parte de abajo a la derecha en el símbolo de la lupa que te dirije al cuadro de búsqueda.
+Puedes buscar un término en la caja de búsqueda arriba a la izquierda. También puedes cliquear en la parte de abajo a la derecha en el símbolo de la lupa para hacer lo mismo.
 
 {: .important }
 > El contenido de este sitio es bastante dinámico y puede cambiar en la medida que sea requerido para poder mantener el paso con los cambios rápidos del mundo de la informática.

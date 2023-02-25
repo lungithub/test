@@ -17,11 +17,11 @@ DevESP significa
 <b><font color="black">[Dev]</font></b>ops en 
 <b><font color="#0369a3">[ESP]</font></b>añol.
 
-La internet esta anegada con conocimiento de informática en inglés. El objetivo de este sitio es hacer una pequeña contribución haciendo disponible ese conocimiento en el idioma Español.
+El objetivo de este sitio es hacer una pequeña contribución haciendo disponible conocimientos de infomática en el idioma Español.
 
 {: .highlight }
-Frequentemente haré referencia a recursos de información en Inglés. Haré lo mejor posible para asociar los términos e ideas correctamente al Español.
+En este sitio podria hacer referencia a recursos de información en Inglés. Haré lo mejor posible para asociar tales recursos de manera pertinente.
 
-Tenemos a nuestro favor conocimiento adquirido con muchos años de experiencia. Dicho conocimiento es muy actualizado y puesto a práctica diariamente en un entorno empresarial extremadamente activo.
+Discutiremos conocimientos prácticos y actualizados que son usados diariamente en un ambiente típico de devops.
 
 [Return to main page]({{site.baseurl}}/).

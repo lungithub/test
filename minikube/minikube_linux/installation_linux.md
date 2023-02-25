@@ -4,7 +4,7 @@ title: Instalacion Linux
 permalink: /minikube_linux/minikube-installation-linux/
 parent: Instalacion y Uso
 grand_parent: Minikube
-has_children: true
+has_children: false
 nav_order: 1
 ---
 
